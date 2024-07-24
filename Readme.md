@@ -18,14 +18,11 @@ Netflix Clone is a front-end web development project designed to replicate the i
 
 ### Steps
 1. Clone the repository:
-   bash git clone https://github.com/AtikaQasim-005/Netflix_CLone_using_HTML_and_CSS.git
+ ```bash
+   git clone  https://github.com/AtikaQasim-005/Netflix_CLone_using_HTML_and_CSS.git
+   ```
    
-2. Open the project in Visual Studio Code:
-   bash
-   cd Netflix_CLone_using_HTML_and_CSS
-   code .
-   
-3. Install the "Live Preview" extension:
+2. Install the "Live Preview" extension:
    - Go to the Extensions view by clicking the Extensions icon in the Sidebar or pressing `Ctrl+Shift+X`.
    - Search for "Live Preview" by Microsoft and install it.
 
@@ -33,10 +30,10 @@ Netflix Clone is a front-end web development project designed to replicate the i
 ### Running the Project
 1. Open the project in Visual Studio Code.
 2. Open HTML file from the project.
-2. Start the Live Preview:
+3. Start the Live Preview:
    - Click on the Live Preview button in the top right corner of the editor.
    - If you want to see the preview on your web browser then you have to click on the button on top right of the live preview window and click on "Open in Browser".
-3. The project will open in your default web browser.
+4. The project will open in your default web browser.
 
 ### Responsive Design
 - To view the responsive design, open the Developer Tools in your browser by pressing `Ctrl+Shift+I` and switch to the device toolbar.
@@ -46,17 +43,17 @@ Netflix Clone is a front-end web development project designed to replicate the i
 We welcome contributions to enhance the project. Here are some guidelines:
 - Fork the repository.
 - Create a new branch for your feature or bug fix:
-  bash
+  ```bash
   git checkout -b feature-name
-  
+  ```
 - Make your changes and commit them with a clear message:
-  bash
+  ```bash
   git commit -m "Add new feature"
-  
+  ```
 - Push your changes to your forked repository:
-  bash
+  ```bash
   git push origin feature-name
-  
+  ```
 - Create a pull request to the main repository.
 
 ### Code of Conduct
